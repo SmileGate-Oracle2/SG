@@ -46,7 +46,7 @@ PROMPT damage or data loss), this script.
 PROMPT By continuing with the execution of this script, you consent to the use for the Purpose, 
 PROMPT by Oracle, of the information and data gathered by the script.
 
-PROMPT Press the <ENTER> key to continue with the execution of this script. Press <CTRL>-C
+PROMPT Press the <ENTERS> key to continue with the execution of this script. Press <CTRL>-C
 PROMPT to exit.
 PROMPT
 PAUSE
